@@ -1,9 +1,17 @@
-Home Work #1
+Home work #1.
 
-1.open chrome
-2. Naviagate to techtorialacademy.com
-3. login
-4. sign up 
-5. set reminder
-6. logout
-please finished homework befor tomorrow. 
+1. Open chrome
+2. Navigate to techtorialacademy.com
+3. Login
+4. Sign up for a class
+5. Set reminder
+6. Logout
+7. Close Chrome
+
+Please finish this task before 05/15/2020
+
+Should you have any questions, please reach out @techtorial
+
+
+
+
