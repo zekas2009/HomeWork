@@ -7,6 +7,7 @@ Home work #1.
 5. Set reminder
 6. Logout
 7. Close Chrome
+8. Open FireFox 
 
 Please finish this task before 05/15/2020
 
